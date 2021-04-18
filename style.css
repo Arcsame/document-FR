@@ -13,11 +13,11 @@ h3{
 }
 
 p{
-    color: white;
+    color: red;
 }
 
 ul li{
-    color: #E6E6E6;
+   couleur : # 000 ;
 }
 
 nav.menu-nav ul li.btn{
@@ -25,5 +25,5 @@ nav.menu-nav ul li.btn{
 }
 
 nav.menu-nav ul li.btn a{
-    color: #FFF;
+    couleur : #000
 }
