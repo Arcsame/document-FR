@@ -1,0 +1,29 @@
+
+html{
+    background-color: #2E2E2E;
+}
+
+h1{
+    color: blue;
+    margin-left: 175px;
+}
+
+h3{
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+ul li{
+    color: #E6E6E6;
+}
+
+nav.menu-nav ul li.btn{
+    list-style-type: circle;
+}
+
+nav.menu-nav ul li.btn a{
+    color: #FFF;
+}
