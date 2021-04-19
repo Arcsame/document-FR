@@ -1,4 +1,4 @@
-#document fr
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
